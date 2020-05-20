@@ -1,1 +1,2 @@
 - Fixes bug causing Hosting emulator to serve invalid /\_\_/\* files.
+- Update App Distribution upload URL.
