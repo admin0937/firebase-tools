@@ -1,2 +1,4 @@
 - Fixes bug causing Hosting emulator to serve invalid /\_\_/\* files.
+- Fixes bug in Firestore emulator for evaluating rules in query listening. (#2197)
+- Fixes support in Firestore emulator for `?show_missing` in listing collection.
 - Update App Distribution upload URL.
